@@ -1,6 +1,6 @@
 # back-to-school
 algorithms and data-structures
 
-Spring examples
+Spring boot examples
 
 Block-chain using ether example
